@@ -4,4 +4,4 @@ def office(name, color= 'Yellow'):
 
 var1 = office('Zenith')
 print(var1)
-print(office('zenith', 'red'))
+print(office('zenith', ))
